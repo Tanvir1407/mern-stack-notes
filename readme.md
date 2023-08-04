@@ -7,6 +7,7 @@
 ## BOOTSTRAP
 ## TAILWIND
 ## JAVASCRIPT
+####Variable
 ## REACT
 ## NEXT.JS
 ## REDUX
