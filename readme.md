@@ -7,11 +7,12 @@
 ## BOOTSTRAP
 ## TAILWIND
 ## JAVASCRIPT
-#### Variable
+### Variable
+জাভাস্ক্রিপ্টে ৩ টাইপের ভেরিয়াবেল আছে। var , let , const
 ## REACT
 ## NEXT.JS
 ## REDUX
-## FRIEBASE
+## FIREBASE
 ## AUTH
 ## NODE
 ## EXPRESS
